@@ -1,0 +1,157 @@
+[
+ {
+  "start": 0.8,
+  "lines": [
+   [
+    0.8,
+    7.84,
+    "Pour comprendre un modèle économétrique de séries temporelles, faisons une analogie avec une voiture qui avance sur une route."
+   ],
+   [
+    8.19,
+    11.987333333333332,
+    "Remarquez que Moteur et Modèle commencent tous les deux par la lettre M !"
+   ],
+   [
+    12.337333333333332,
+    16.62533333333333,
+    "Et pour fonctionner dans le temps, ils ont besoin d'un carburant qui commence par un D :"
+   ],
+   [
+    16.97533333333333,
+    20.644666666666666,
+    "du Diesel pour le moteur, et des Données historiques pour le modèle."
+   ]
+  ],
+  "end": 21.844666666666665
+ },
+ {
+  "start": 21.844666666666665,
+  "lines": [
+   [
+    21.844666666666665,
+    25.45,
+    "Quand on verse le Diesel, le moteur démarre et génère du mouvement."
+   ],
+   [
+    25.8,
+    35.144,
+    "De la même façon, quand on estime le Modèle avec nos Données temporelles, on obtient des estimations de coefficients qui ont une véritable signification économique."
+   ],
+   [
+    35.494,
+    36.62466666666667,
+    "Mais attention !"
+   ],
+   [
+    36.97466666666667,
+    42.54266666666667,
+    "Ce n'est pas parce que la voiture roule, ou que le logiciel donne un résultat, que tout fonctionne correctement."
+   ]
+  ],
+  "end": 43.74266666666667
+ },
+ {
+  "start": 43.74266666666667,
+  "lines": [
+   [
+    43.74266666666667,
+    45.40666666666667,
+    "Il faut faire passer des tests."
+   ],
+   [
+    45.756666666666675,
+    50.85533333333334,
+    "D'abord, des tests mécaniques : on vérifie que toutes les pièces du moteur sont solidement fixées."
+   ],
+   [
+    51.20533333333334,
+    54.42666666666668,
+    "En économétrie, cela revient à tester nos coefficients :"
+   ],
+   [
+    54.77666666666668,
+    62.94733333333335,
+    "on utilise les tests de Student et de Fisher pour s'assurer que nos variables sont statistiquement significatives, et bien à leur place."
+   ]
+  ],
+  "end": 64.14733333333335
+ },
+ {
+  "start": 64.14733333333335,
+  "lines": [
+   [
+    64.14733333333335,
+    66.19533333333335,
+    "Ensuite, il faut inspecter la fumée !"
+   ],
+   [
+    66.54533333333335,
+    69.89466666666668,
+    "Une fumée noire, c'est une combustion incomplète du diesel."
+   ],
+   [
+    70.24466666666667,
+    72.29266666666668,
+    "Une fumée grasse, c'est une fuite d'huile."
+   ],
+   [
+    72.64266666666667,
+    74.09333333333333,
+    "Il faut une fumée claire !"
+   ],
+   [
+    74.44333333333333,
+    77.34466666666665,
+    "Dans notre modèle, la fumée représente les Résidus."
+   ],
+   [
+    77.69466666666665,
+    81.79066666666665,
+    "Pour valider le modèle, ces résidus doivent se comporter comme un Bruit Blanc :"
+   ],
+   [
+    82.14066666666665,
+    83.39933333333332,
+    "une espérance nulle,"
+   ],
+   [
+    83.74933333333331,
+    85.2213333333333,
+    "une variance constante,"
+   ],
+   [
+    85.5713333333333,
+    88.04599999999996,
+    "aucune autocorrélation, crucial dans le temps !"
+   ],
+   [
+    88.39599999999996,
+    89.52666666666663,
+    "et une loi normale."
+   ]
+  ],
+  "end": 92.72666666666663
+ },
+ {
+  "start": 92.72666666666663,
+  "lines": [
+   [
+    92.72666666666663,
+    95.5213333333333,
+    "Un moteur sain avec une fumée claire vous mènera loin."
+   ],
+   [
+    95.8713333333333,
+    103.7433333333333,
+    "Un modèle dont les coefficients sont testés, et dont les résidus sont un bruit blanc, vous permettra de faire des prévisions économiques fiables."
+   ],
+   [
+    104.09333333333329,
+    105.62933333333329,
+    "Bonne route en économétrie !"
+   ]
+  ],
+  "end": 108.62933333333329
+ }
+]

@@ -1,0 +1,5 @@
+*.onnx
+voices-*.bin
+*.wav
+still_*.png
+__pycache__/
